@@ -2,7 +2,7 @@
 
 <br />
 
-### I'm a passionate full-stack developer from India 🇮🇳
+### I'm a passionate software engineer from India 🇮🇳
 
 ### About me -
 
