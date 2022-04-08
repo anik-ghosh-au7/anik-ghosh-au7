@@ -4,7 +4,7 @@
 
 ### I'm a passionate full-stack developer from India 🇮🇳
 
-### About me
+### About me -
 
 - 💼 FullStack Developer & Security Engineer at [The Contentment Foundation](https://contentment.org/team/Anik)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/anik-ghosh-au7/anik-ghosh-au7/issues)
 
-### Skills
+### Skills -
 
 <p float="left">
     <img src="./assets/javascript.svg" />
@@ -34,10 +34,10 @@
     <img src="./assets/css.svg" />
 </p>
 
-### Stats
+### Stats -
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-ghosh-au7&hide=stars&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anik's github stats" />
 
-### Contact
+### Contact -
 
     npx anik
