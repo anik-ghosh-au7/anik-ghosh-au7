@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/anik-ghosh-au7"><img width="80%" src="./assets/hello-text.png" /></a></p>
 
-### I'm a passionate Software Engineer from India 🇮🇳
+### I'm a passionate Software Engineer from India 🇮🇳 ❤️
 
 ### About me -
 
@@ -25,6 +25,7 @@
     <img src="./assets/react-native.svg" />
     <img src="./assets/dart.svg" />
     <img src="./assets/flutter.svg" />
+    <img src="./assets/go-lang.svg" />
     <img src="./assets/python.svg" />
     <img src="./assets/postgres-sql.svg" />
     <img src="./assets/mongo-db.svg" />
