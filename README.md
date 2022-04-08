@@ -35,7 +35,7 @@
 
 ### Stats -
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-ghosh-au7&hide=stars&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anik's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-ghosh-au7&hide=stars&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=onedark" alt="Anik's github stats" />
 
 ### Contact -
 
