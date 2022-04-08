@@ -6,7 +6,7 @@
 
 <br />
 
-**About me -**
+### About me
 
 - 💼 FullStack Developer & Security Engineer at [The Contentment Foundation](https://contentment.org/team/Anik)
 
@@ -18,7 +18,7 @@
 
 <br />
 
-**Skills -**
+### Skills
 
 <p float="left">
     <img src="./assets/javascript.svg" />
@@ -40,12 +40,12 @@
 
 <br />
 
-**Stats -**
+### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-ghosh-au7&hide=stars&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anik's github stats" />
 
 <br />
 
-**Contact -**
+### Contact
 
     npx anik
