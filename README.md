@@ -2,7 +2,7 @@
 
 <br />
 
-### I'm a passionate software engineer from India 🇮🇳
+### I'm a passionate Software Engineer from India 🇮🇳
 
 ### About me -
 
