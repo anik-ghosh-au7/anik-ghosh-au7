@@ -41,4 +41,6 @@
 
     npx anik
 
-### Checkout my [Resume](https://github.com/anik-ghosh-au7/anik-ghosh-au7/blob/main/assets/resume.pdf)
+### Checkout my [Resume](https://github.com/anik-ghosh-au7/anik-ghosh-au7/blob/main/assets/resume.pdf) or download using -
+
+    npx anik -r
