@@ -2,8 +2,6 @@
 
 ### <p align="center">A passionate FullStack Developer from India 🇮🇳 ❤️</p>
 
-<br />
-
 ### About me -
 
 - 💼 FullStack Developer & Security Engineer at [The Contentment Foundation](https://contentment.org/team/Anik)
