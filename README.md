@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/anik-ghosh-au7"><img width="80%" src="./assets/hello-text.png" /></a></p>
 
-### I'm a passionate Software Engineer from India 🇮🇳 ❤️
+### <p align="center">A passionate FullStack Developer from India 🇮🇳 ❤️</p>
 
 ### About me -
 
