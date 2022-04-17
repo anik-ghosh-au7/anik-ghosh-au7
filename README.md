@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/anik-ghosh-au7"><img width="80%" src="./assets/hello-text.png" /></a></p>
+<p align="center"><a href="https://github.com/anik-ghosh-au7"><img width="50%" height="75px" src="./assets/hello-text.png" /></a></p>
 
 ### <p align="center">A passionate FullStack Developer from India 🇮🇳 ❤️</p>
 
