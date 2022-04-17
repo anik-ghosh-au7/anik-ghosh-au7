@@ -41,6 +41,10 @@
 
     npx anik
 
-### Checkout my [resume](https://github.com/anik-ghosh-au7/anik-ghosh-au7/blob/main/assets/resume.pdf) or download -
+### [Resume](https://github.com/anik-ghosh-au7/anik-ghosh-au7/blob/main/assets/resume.pdf) -
 
     npx anik -r
+
+### Message -
+
+    npx anik -m <YOUR_MESSAGE>
