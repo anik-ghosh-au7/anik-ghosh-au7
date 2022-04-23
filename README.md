@@ -45,6 +45,6 @@
 
     npx anik -r
 
-### Message -
+### Say Hi 👋 -
 
     npx anik -m <YOUR_MESSAGE>
