@@ -4,7 +4,7 @@
 
 ### About me -
 
-- 💼 FullStack Developer & Security Engineer at [The Contentment Foundation](https://contentment.org/team/Anik)
+- 💼 FullStack Developer at [The Contentment Foundation](https://contentment.org/team/Anik)
 
 - 📈 Contributor in Open Source Projects
 
