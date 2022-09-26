@@ -17,18 +17,18 @@
 <p float="left">
     <img src="./assets/javascript.svg" />
     <img src="./assets/typescript.svg" />
-    <img src="./assets/node-js.svg" />
     <img src="./assets/react-js.svg" />
-    <img height=45 width=45 src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" />
+    <img src="./assets/next-js.svg" />
     <img src="./assets/vue-js.svg" />
     <img src="./assets/svelte.svg" />
     <img src="./assets/angular.svg" />
     <img src="./assets/graphql.svg" />
-    <img src="./assets/react-native.svg" />
-    <img src="./assets/dart.svg" />
-    <img src="./assets/flutter.svg" />
+    <img src="./assets/node-js.svg" />
     <img src="./assets/go-lang.svg" />
     <img src="./assets/python.svg" />
+    <img src="./assets/dart.svg" />
+    <img src="./assets/flutter.svg" />
+    <img src="./assets/react-native.svg" />
     <img src="./assets/postgres-sql.svg" />
     <img src="./assets/mongo-db.svg" />
 </p>
