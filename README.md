@@ -29,8 +29,8 @@
     <img src="./assets/python.svg" />
     <img src="./assets/postgres-sql.svg" />
     <img src="./assets/mongo-db.svg" />
-    <img src="./assets/html.svg" />
-    <img src="./assets/css.svg" />
+    <img src="./assets/angular.svg" />
+    <img src="./assets/svelte.svg" />
 </p>
 
 ### Stats -
