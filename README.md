@@ -1,7 +1,5 @@
 <p align="center"><a href="https://github.com/anik-ghosh-au7"><img width="50%" height="75px" src="./assets/hello-text.png" /></a></p>
 
-### <p align="center">A passionate FullStack Developer from India 🇮🇳 ❤️</p>
-
 ### About me -
 
 - 💼 FullStack Developer at [The Contentment Foundation](https://contentment.org/team/Anik)
@@ -25,6 +23,7 @@
     <img src="./assets/graphql.svg" />
     <img src="./assets/node-js.svg" />
     <img src="./assets/go-lang.svg" />
+    <img src="./assets/rust.svg" />
     <img src="./assets/python.svg" />
     <img src="./assets/dart.svg" />
     <img src="./assets/flutter.svg" />
