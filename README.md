@@ -13,6 +13,8 @@
 ### Skills -
 
 <p float="left">
+    <img src="./assets/html.svg" />
+    <img src="./assets/css.svg" />
     <img src="./assets/javascript.svg" />
     <img src="./assets/typescript.svg" />
     <img src="./assets/react-js.svg" />
