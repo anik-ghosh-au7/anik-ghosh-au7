@@ -41,6 +41,10 @@
 <img align="center" src="https://streak-stats.demolab.com/?user=anik-ghosh-au7&theme=onedark&hide_border=true" alt="Anik's github streak" width="370" />
 </p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anik-ghosh-au7&theme=onedark&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</p>
+
 ### Contact -
 
     npx anik
