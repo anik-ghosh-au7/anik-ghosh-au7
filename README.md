@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anik-ghosh-au7&theme=onedark&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=anik-ghosh-au7&theme=onedark&no-frame=true&row=1&&margin-w=30">
 </p>
 
 ### Contact -
