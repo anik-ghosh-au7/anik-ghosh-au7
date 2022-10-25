@@ -38,7 +38,7 @@
 
 <p float="left" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-ghosh-au7&hide=stars&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=onedark" alt="Anik's github stats" width="400" />
-<img align="center" src="https://streak-stats.demolab.com/?user=anik-ghosh-au7&theme=onedark_duo&hide_border=true" alt="Anik's github streak" width="400" />
+<img align="center" src="https://streak-stats.demolab.com/?user=anik-ghosh-au7&theme=onedark&hide_border=true" alt="Anik's github streak" width="400" />
 </p>
 
 ### Contact -
