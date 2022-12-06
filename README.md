@@ -13,25 +13,25 @@
 ### Skills -
 
 <p float="left">
-    <img src="/assets/html.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/css.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/javascript.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/typescript.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/react-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/next-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/vue-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/svelte.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/angular.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/graphql.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/node-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/go-lang.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/rust.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/python.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/dart.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/flutter.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/react-native.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/postgres-sql.svg" style="height: 40px; width: 40px;" />
-    <img src="/assets/mongo-db.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345577/github-skills/html_f4bi7w.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345576/github-skills/css_ly5kyk.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345577/github-skills/javascript_tqu5up.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345579/github-skills/typescript_bjoe4n.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345579/github-skills/react-js_pyzswo.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345578/github-skills/next-js_lfpyhn.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345580/github-skills/vue-js_cjryc6.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345579/github-skills/svelte_tewbt5.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345575/github-skills/angular_lyaqwk.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345576/github-skills/graphql_obtpfe.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345577/github-skills/node-js_ej1y8t.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345575/github-skills/go-lang_xtg3k6.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345579/github-skills/rust_rkaqvb.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345579/github-skills/python_ookmqh.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345575/github-skills/dart_vjy75h.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345575/github-skills/flutter_hwekus.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345579/github-skills/react-native_levozm.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345577/github-skills/postgres-sql_kpxclu.svg" style="height: 40px; width: 40px;" />
+    <img src="https://res.cloudinary.com/anik/image/upload/v1670345577/github-skills/mongo-db_l5kng3.svg" style="height: 40px; width: 40px;" />
 </p>
 
 ### Stats -
