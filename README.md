@@ -13,25 +13,25 @@
 ### Skills -
 
 <p float="left">
-    <img src="/anik-ghosh-au7/assets/html.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/css.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/javascript.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/typescript.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/react-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/next-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/vue-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/svelte.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/angular.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/graphql.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/node-js.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/go-lang.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/rust.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/python.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/dart.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/flutter.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/react-native.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/postgres-sql.svg" style="height: 40px; width: 40px;" />
-    <img src="/anik-ghosh-au7/assets/mongo-db.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/html.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/css.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/javascript.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/typescript.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/react-js.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/next-js.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/vue-js.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/svelte.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/angular.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/graphql.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/node-js.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/go-lang.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/rust.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/python.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/dart.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/flutter.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/react-native.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/postgres-sql.svg" style="height: 40px; width: 40px;" />
+    <img src="/assets/mongo-db.svg" style="height: 40px; width: 40px;" />
 </p>
 
 ### Stats -
