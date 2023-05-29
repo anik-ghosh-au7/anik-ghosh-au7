@@ -34,7 +34,7 @@
     <img src="https://res.cloudinary.com/anik/image/upload/v1670345577/github-skills/mongo-db_l5kng3.svg" style="height: 40px; width: 40px;" />
 </p>
 
-### Stats -
+<!-- ### Stats -
 
 <p float="left" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-ghosh-au7&hide=stars&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=onedark" alt="Anik's github stats" width="430" />
@@ -43,7 +43,7 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anik-ghosh-au7&theme=onedark&no-frame=true&row=1&&margin-w=30">
-</p>
+</p> -->
 
 ### Contact -
 
