@@ -45,7 +45,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=anik-ghosh-au7&theme=onedark&no-frame=true&row=1&&margin-w=30">
 </p> -->
 
-### To know more -
+### Know more -
 
     npx anik
 
