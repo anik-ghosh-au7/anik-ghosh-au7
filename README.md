@@ -45,9 +45,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=anik-ghosh-au7&theme=onedark&no-frame=true&row=1&&margin-w=30">
 </p> -->
 
-### Know more -
+<!-- ### Know more -
 
-    npx anik
+    npx anik -->
 
 <!-- ### [Resume](https://github.com/anik-ghosh-au7/anik-ghosh-au7/blob/main/assets/resume.pdf) -
 
