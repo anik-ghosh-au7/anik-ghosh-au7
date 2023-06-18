@@ -58,4 +58,7 @@
     npx anik -m <YOUR_MESSAGE>
     
 ### Articles -
+<p float="left">
+- [Merkle Trees](https://medium.com/@tech.anikghosh/merkle-trees-c225b1098acf)
 - [Probabilistic Data Structures](https://medium.com/@tech.anikghosh/probabilistic-data-structures-db5d238008eb)
+</p>
