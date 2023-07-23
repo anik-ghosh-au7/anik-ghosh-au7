@@ -61,3 +61,4 @@
 - [The Merkle Tree Advantage](https://medium.com/@tech.anikghosh/merkle-trees-c225b1098acf)
 - [Probabilistic Data Structures Simplified](https://medium.com/@tech.anikghosh/probabilistic-data-structures-db5d238008eb)
 - [Bridging Systems with gRPC, A Powerhouse Protocol](https://medium.com/@tech.anikghosh/bridging-systems-with-grpc-a-powerhouse-protocol-b9fec05b1c98)
+- [Implementing Easy-Script: A Mini Scripting Language with a Simple Go Interpreter](https://medium.com/@tech.anikghosh/implementing-easy-script-a-mini-scripting-language-with-a-simple-go-interpreter-7ffd50e2aee6)
