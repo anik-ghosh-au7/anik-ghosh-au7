@@ -62,3 +62,4 @@
 - [Probabilistic Data Structures Simplified](https://medium.com/@tech.anikghosh/probabilistic-data-structures-db5d238008eb)
 - [Bridging Systems with gRPC, A Powerhouse Protocol](https://medium.com/@tech.anikghosh/bridging-systems-with-grpc-a-powerhouse-protocol-b9fec05b1c98)
 - [Implementing Easy-Script: A Mini Scripting Language with a Simple Go Interpreter](https://medium.com/@tech.anikghosh/implementing-easy-script-a-mini-scripting-language-with-a-simple-go-interpreter-7ffd50e2aee6)
+- [Vibes Tracker: My Journey of Hacking into Virtual Gatherings for a Deeper Understanding of Human Emotions](https://medium.com/@tech.anikghosh/vibes-tracker-my-journey-of-hacking-into-virtual-gatherings-for-a-deeper-understanding-of-human-574cf349e3f)
