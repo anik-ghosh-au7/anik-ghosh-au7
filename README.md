@@ -2,7 +2,7 @@
 
 ### About me -
 
-- 💼 FullStack Developer at [The Contentment Foundation](https://contentment.org/team/Anik)
+- 💼 FullStack Developer at [The Contentment Foundation](https://www.contentment.org/team)
 
 - 📈 Contributor in Open Source Projects
 
