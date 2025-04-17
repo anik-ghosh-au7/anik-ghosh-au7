@@ -58,8 +58,9 @@
     npx anik -m <YOUR_MESSAGE>
     
 ### Articles -
-- [The Merkle Tree Advantage](https://medium.com/@tech.anikghosh/merkle-trees-c225b1098acf)
+- [Quantum Computing Simplified](https://medium.com/@tech.anikghosh/quantum-computing-simplified-b2261f464673)
 - [Probabilistic Data Structures Simplified](https://medium.com/@tech.anikghosh/probabilistic-data-structures-db5d238008eb)
+- [The Merkle Tree Advantage](https://medium.com/@tech.anikghosh/merkle-trees-c225b1098acf)
 - [Bridging Systems with gRPC, A Powerhouse Protocol](https://medium.com/@tech.anikghosh/bridging-systems-with-grpc-a-powerhouse-protocol-b9fec05b1c98)
 - [Implementing Easy-Script: A Mini Scripting Language with a Simple Go Interpreter](https://medium.com/@tech.anikghosh/implementing-easy-script-a-mini-scripting-language-with-a-simple-go-interpreter-7ffd50e2aee6)
 - [Hack into Virtual Meetings for a Deeper Understanding of Human Emotions](https://medium.com/@tech.anikghosh/vibes-tracker-my-journey-of-hacking-into-virtual-gatherings-for-a-deeper-understanding-of-human-574cf349e3f)
