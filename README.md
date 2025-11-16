@@ -54,8 +54,6 @@
     npx anik -r -->
 
 ### Say Hi on [Linkedin](https://linkedin.anik.cc) 👋
-
-    npx anik -m <YOUR_MESSAGE>
     
 ### Articles -
 - [Quantum Computing Simplified](https://medium.com/@tech.anikghosh/quantum-computing-simplified-b2261f464673)
