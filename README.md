@@ -53,7 +53,7 @@
 
     npx anik -r -->
 
-### Say Hi 👋 -
+### Say Hi on [Linkedin](https://linkedin.anik.cc) 👋
 
     npx anik -m <YOUR_MESSAGE>
     
